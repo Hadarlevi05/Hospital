@@ -19,7 +19,7 @@ Hospital::Hospital(char* name, int NumOfDepartments, int NumOfPatients, int NumO
 
 	//test commit
 	// test commit from hadar 
-
+	// test commit by liza
 
 	setName(name);
 	numOfDepartments = NumOfDepartments;
