@@ -18,6 +18,8 @@ Hospital::Hospital(char* name, int NumOfDepartments, int NumOfPatients, int NumO
 	departments = new Department*[MAX_NUM_OF_DEPARTMENTS];
 
 	//test commit
+
+
 	setName(name);
 	numOfDepartments = NumOfDepartments;
 	numOfPatients = NumOfPatients;
